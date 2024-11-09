@@ -1,0 +1,1 @@
+Solamente se suben las carpetas con los dos archivos el archivo en cucumber con los escenarios definidos dentro de features y el playwright en la carpeta steps (ambas carpetas dentro de la carpeta test del proyecto de Visual Studio
